@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/benzane-store/static/css/main.7ed68a0a.css",
-    "main.js": "/benzane-store/static/js/main.534f68a6.js",
+    "main.css": "/benzane-store/static/css/main.00b661ac.css",
+    "main.js": "/benzane-store/static/js/main.fdee8712.js",
     "static/js/787.97499196.chunk.js": "/benzane-store/static/js/787.97499196.chunk.js",
-    "static/media/home.jpg": "/Kholane/benzane-store/static/media/home.1b309d9dddb1c0055b15.jpg",
+    "static/media/home.jpg": "/benzane-store/static/media/home.1b309d9dddb1c0055b15.jpg",
     "index.html": "/benzane-store/index.html",
-    "main.7ed68a0a.css.map": "/benzane-store/static/css/main.7ed68a0a.css.map",
-    "main.534f68a6.js.map": "/benzane-store/static/js/main.534f68a6.js.map",
+    "main.00b661ac.css.map": "/benzane-store/static/css/main.00b661ac.css.map",
+    "main.fdee8712.js.map": "/benzane-store/static/js/main.fdee8712.js.map",
     "787.97499196.chunk.js.map": "/benzane-store/static/js/787.97499196.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ed68a0a.css",
-    "static/js/main.534f68a6.js"
+    "static/css/main.00b661ac.css",
+    "static/js/main.fdee8712.js"
   ]
 }

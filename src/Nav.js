@@ -13,9 +13,8 @@ export default function Nav(){
     <div className="collapse navbar-collapse" id="navbarCollapse">
         <div className="navbar-nav ms-auto py-0">
         <Link className={'nav-item nav-link'} to="/shop">Shop</Link>
-            <a href="about.html" className="nav-item nav-link">help</a>
-            <a href="contact.html" className="nav-item nav-link">Contact</a>
-        </div>
+        <Link className={'nav-item nav-link'} to="/help">help</Link>
+        <Link className={'nav-item nav-link'} to="/contact">contact</Link>        </div>
         <a href="contact.html" className="btn btn-dark rounded-pill text-light py-2 px-4 ms-lg-5"><i className="bi bi-telephone"></i> +27 79 939 5147</a>
     </div>
 </nav>

@@ -14,7 +14,7 @@ export default function Footer(){
         </ol>
       </div>
         <div class="social d-flex justify-content-center">
-            <a class="mx-2" href="https://www.facebook.com/profile.php?id=100074140736669"><i class="bi bi-facebook"></i></a>
+            <a class="mx-2" href="https://www.facebook.com/dimakatso.benelzane"><i class="bi bi-facebook"></i></a>
         </div>
     </div>
 </section>

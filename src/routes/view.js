@@ -13,8 +13,6 @@ export function View(){
     )
 }
 
-
-
 export function ViewedItem(){
 
   let params = useParams();

@@ -1,0 +1,10 @@
+
+.viewedItem img{
+    border: 1px solid silver;
+    border-radius: 4px;
+}
+
+.viewedItem{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 10px;
+}

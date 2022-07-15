@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+/*** Hero Header ***/
+.hero-header {
+    margin-bottom: 6rem;
+    padding: 12rem 0 9rem 0;
+    background: url(../public/img/home.jpg) center bottom no-repeat;
+    background-size: cover;
+  }
+  
+  .bg{
+  background-color: #040D21;
+  }
+  
+  .page-header {
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+  }
+  
+  @media (max-width: 991.98px) {
+    .hero-header {
+        padding: 6rem 0 9rem 0;
+    }
+  
+    .page-header {
+        padding: 6rem 0;
+    }
+  }
+  
+  .page-header .breadcrumb-item+.breadcrumb-item::before {
+    color: rgba(256, 256, 256, .5);
+  }

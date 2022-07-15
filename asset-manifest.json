@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Kholane/benzane-store/static/css/main.7ed68a0a.css",
+    "main.js": "/Kholane/benzane-store/static/js/main.534f68a6.js",
+    "static/js/787.97499196.chunk.js": "/Kholane/benzane-store/static/js/787.97499196.chunk.js",
+    "static/media/home.jpg": "/Kholane/benzane-store/static/media/home.1b309d9dddb1c0055b15.jpg",
+    "index.html": "/Kholane/benzane-store/index.html",
+    "main.7ed68a0a.css.map": "/Kholane/benzane-store/static/css/main.7ed68a0a.css.map",
+    "main.534f68a6.js.map": "/Kholane/benzane-store/static/js/main.534f68a6.js.map",
+    "787.97499196.chunk.js.map": "/Kholane/benzane-store/static/js/787.97499196.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ed68a0a.css",
+    "static/js/main.534f68a6.js"
+  ]
+}

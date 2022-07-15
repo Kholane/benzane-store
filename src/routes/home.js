@@ -16,7 +16,7 @@ export default function Home(){
             <div className="row g-5 align-items-center">
                 <div className="col-lg-6 text-center text-lg-start">
                     <h1 className="text-white mb-4 animated zoomIn page-header">We sell Inuka products ranging from skin care and fragrances.</h1>
-                    <a href="contact.html" className="btn btn-outline-light rounded-pill border-2 py-3 px-5 animated slideInRight">Order</a>
+                    <Link className={'btn btn-outline-light rounded-pill border-2 py-3 px-5 animated slideInRight'} to="/shop">Shop</Link>
                 </div>
             </div>
         </div>

@@ -9,6 +9,6 @@
       { "id": 7, "name": " Essential Oil: Soothing Blend - 10ml",  "price": "R98", "img":"img/Essential Oil Skin Soothing.png", "type":"oil"},
       { "id": 8, "name": " Essential Oil: Protective Blend - 10ml",  "price": "R67", "img":"img/Essential Oil Skin protective.png", "type":"oil"},
       { "id": 9, "name": " Essential Oil: Calming Blend - 10ml",  "price": "R56", "img":"img/Essential Oil Skin protective.png", "type":"oil"},
-      { "id": 10, "name": " Essential Oil:Shield Blend - 10ml",  "price": "R78", "img":"img/Essential Oil Skin health shield.png", "type":"oil"}
-    ] 
+      { "id": 10,"name": " Essential Oil:Shield Blend - 10ml",  "price": "R78", "img":"img/Essential Oil Skin health shield.png", "type":"oil"}
+    ]
   }
